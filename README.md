@@ -1,1 +1,1 @@
-# Linear-Discriminant-Analysis-on-Wine-dataset
+# Linear Discriminant Analysis on Wine dataset
