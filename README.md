@@ -18,6 +18,6 @@ The following figure shows the predictions made by the model from new users. (Te
 
 ![alt text](https://github.com/taiftahmid/Linear-Discriminant-Analysis-on-Wine-dataset/blob/master/LDA_Test.png)
 
-The accuracy of the model was 100%
+The accuracy of the model is 100%
 
 
