@@ -4,6 +4,8 @@ LDA is a supervised dimensionality reduction technique used in machine learning.
 
 This project includes a wine dataset with many features of wine samples and customer segment being the independent variable. The goal of this project is to determine which customer segments prefer what type of wines. Thus we will be able to recommend types of wine to the right customers. 
 
+After applying feature scaling, LDA was used to reduce the dimensions of the dataset and then Logistic Regression was used to train the model. 
+
 # Results and Discussion 
 
 ![alt text](https://github.com/taiftahmid/Linear-Discriminant-Analysis-on-Wine-dataset/blob/master/LDA_Training.png)
