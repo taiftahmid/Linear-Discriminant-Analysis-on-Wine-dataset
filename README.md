@@ -2,7 +2,7 @@
 
 LDA is a supervised dimensionality reduction technique used in machine learning. The goal of using LDA is to find patterns and correlations within the data and excluding unimportant features within the data. Thus we have a dataset with lesser dimensions without compromising important informations needed for accurate predictions. 
 
-This project includes a wine dataset with many features of wine samples and customer segment being the independent variable. The goal of this project is to determine which customer segments prefer what type of wines. Thus we will be able to recommend types of wine to the right customers. 
+This project includes a wine dataset with many features of wine samples and customer segment being the dependent variable. The goal of this project is to determine which customer segments prefer what type of wines. Thus we will be able to recommend types of wine to the right customers. 
 
 After applying feature scaling, LDA was used to reduce the dimensions of the dataset and then Logistic Regression was used to train the model. 
 
